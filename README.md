@@ -13,3 +13,6 @@ The focus of the class is on exposing the students to a variety of data analytic
 
 #### Homework 5: Text Analytics
 
+#### Homework 6: Clustering
+
+#### Homework 7: Visualization
