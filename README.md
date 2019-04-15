@@ -5,6 +5,7 @@ This is the collection of the assignments I have done in my online class The Ana
 
 The focus of the class is on exposing the students to a variety of data analytics techniques and their real use cases, which opened up enormous potential.
 
+1. Introduction
 2. Linear Regression
 3. Logistic Regression
 4. Trees
